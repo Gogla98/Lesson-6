@@ -11,12 +11,14 @@
 .car {
 	width: 400px;
 	position: absolute;
-	animation: car 4s linear infinite alternate;
+	animation: car 6s linear infinite alternate;
 	z-index: 2;
 }
 .guy {
 	width: 250px;
+	margin-top: 330px;
+	margin-left: 840px;
 	position: absolute;
-	animation: guy 4s linear infinite alternate;
+	animation: guy 8s 6s linear infinite alternate;
 	z-index: 3;
 }

@@ -1,6 +1,6 @@
 @keyframes guy {
-	0% {left: 840px; top: 330px;}
-	100% {left: 1100px; top: 440px;}
+	0% {left: 0px; top: 0px;}
+	100% {left: 310px; top: 120px;}
 }
 @keyframes car {
 	0% {left: 0px; top: 520px;}
